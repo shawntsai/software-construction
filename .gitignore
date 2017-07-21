@@ -1,3 +1,11 @@
+#
+.grader/
+*.xml
+*.DS_Store
+
+fa16*
+#
+#
 # Compiled class file
 *.class
 
